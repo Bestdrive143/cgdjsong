@@ -39,3 +39,9 @@
   <div align="center"><div><div><div style="margin-bottom: -5px; border-top: 1px solid black; box-shadow: 0px 2px 20px black; color:green; padding: 1px 1px 1px 1px; font-white: bold; font-size: large; text-align: left; position:fixed; float:right; background-color:Black ; width:100%; bottom:0px; left:0px; "><b><marquee scrollamount="5" loop="infinite" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0"> <span style="background:GREEN;padding: 1px 7px;font-size: large;font-weight: bold;color: #FF0000;margin: 0px 0px;border-radius: 40px;"><font color="white">Note:-</font></span><span style="background: ORANGERED;padding: 1px 7px;font-size: large;font-weight: bold;color: #FF0000;margin: 0px 0px;border-radius: 40px;"><font color="white">Welcome To"CgMusic.Minewap.Com"...... ।</font></span></marquee></b></div></div></div> </div> </br> </br>
 
    <div><h2><center> <font color="#ffffff">All Rights Reserved - <a href="/"> <font color="#ffffff">CgDjMix.In</font></a> © <script type="text/javascript"> copyright=new Date(); update=copyright.getFullYear(); document.write(" 2018 - "+ update + " ");</script> </font> </a> <br/><a href="/page-6.html"><font color="#ffffff">Disclaimer</font></a><font color="#ffffff"> | <a href="/page-7.html"><font color="#ffffff">Contact Us</font></a></b></h2></center></h2></div>
+
+
+   
+<audio controls autoplay muted >
+  <source src="https://github.com/Bestdrive143/cgdjsong/raw/refs/heads/main/Mp3%20All%20File/Cg%20DJ%20Song/3%20Peg%20Ft%20Sharry%20Maan%20Punjabi%20Remix%20Dj%20Syk-(CgMaza.in).mp3"type="audio/mpeg"/>
+</audio>
